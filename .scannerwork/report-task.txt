@@ -1,0 +1,6 @@
+projectKey=kanishakgarg-2268400-2268399-1650354997851
+serverUrl=http://13.234.110.52:9000
+serverVersion=8.9.6.50800
+dashboardUrl=http://13.234.110.52:9000/dashboard?id=kanishakgarg-2268400-2268399-1650354997851
+ceTaskId=AYBDD4TUYfzQL2FCmX71
+ceTaskUrl=http://13.234.110.52:9000/api/ce/task?id=AYBDD4TUYfzQL2FCmX71
